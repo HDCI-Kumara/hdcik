@@ -1,102 +1,174 @@
-<h1 align="center">Hi 👋, I'm H D C I Kumara</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate Programmer | Tech Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=H%20D%20C%20I%20Kumara&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20🚀&descAlignY=60&descSize=18"/>
 
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 👨‍💻 About Me
-
-- 💻 Passionate about creating modern and responsive web applications
-- 🌱 Currently improving my skills in **Full Stack Development & Backend Systems**
-- ⚡ Love working with clean UI designs and scalable systems
-- 🔥 Interested in Web Development, APIs, Databases & Software Engineering
-- 🎯 Goal: Become a highly skilled Full Stack Engineer
+</div>
 
 ---
 
-## 🚀 Tech Stack
+<div align="center">
 
-<p align="center">
+[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,java,mongodb,mysql,html,css,js,git,github,vscode" />
-
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center">
+Hi 👋 I'm H D C I Kumara
+</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<h3 align="center">
+💻 Full Stack Developer | 🚀 Passionate Coder | 🌌 Tech Enthusiast
+</h3>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Building+Modern+Web+Applications;Creating+Beautiful+User+Experiences;Always+Learning+New+Technologies"/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
+## 🌌 About Me
 
----
-
-## 📌 Featured Projects
-
-🚀 Full Stack Web Applications  
-📚 Student Management Systems  
-🛒 E-Commerce Platforms  
-💬 Real-time Chat Applications  
-📊 Dashboard & Admin Panels  
-
----
-
-## ⚡ Fun Fact
-
-```javascript
-while(!(succeed = try()));
+```yaml
+Name: H D C I Kumara
+Role: Full Stack Developer
+Location: Sri Lanka 🇱🇰
+Focus: Modern Web Development
+Currently Learning: Advanced Backend & Cloud
+Passion: Creating Premium Digital Experiences
 ```
 
 ---
 
-<p align="center">
-  ✨ <b>"Code. Learn. Build. Repeat."</b> ✨
-</p>
+## 🚀 Tech Arsenal
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,java,mongodb,mysql,html,css,js,git,github,vscode&perline=6"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# ⚡ Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+✨ Full Stack MERN Applications  
+✨ Modern React Dashboards  
+✨ REST API Systems  
+✨ Java Desktop Applications  
+✨ Database Management Projects  
+✨ Responsive UI/UX Designs  
+
+</div>
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+> “First, solve the problem. Then, write the code.”
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# ⚙️ Fun Fact
+
+```javascript
+const life = () => {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+
+</div>
