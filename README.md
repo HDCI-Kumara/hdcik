@@ -1,109 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=H%20D%20C%20I%20Kumara&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20🚀&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=HDCI-Kumara&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20🚀&descAlignY=58&descSize=20"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Building+Modern+Web+Applications;Creating+Premium+Digital+Experiences;Always+Learning+New+Technologies"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=HDCI-Kumara&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
-<h1 align="center">
-Hi 👋 I'm H D C I Kumara
-</h1>
-
-<h3 align="center">
-💻 Full Stack Developer | 🚀 Passionate Coder | 🌌 Tech Enthusiast
-</h3>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Building+Modern+Web+Applications;Creating+Beautiful+User+Experiences;Always+Learning+New+Technologies"/>
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-## 🌌 About Me
+# 🌌 About Me
 
 ```yaml
 Name: H D C I Kumara
 Role: Full Stack Developer
 Location: Sri Lanka 🇱🇰
 Focus: Modern Web Development
-Currently Learning: Advanced Backend & Cloud
-Passion: Creating Premium Digital Experiences
+Currently Learning: Cloud & Advanced Backend
+Passion: Creating Beautiful Digital Experiences
 ```
+
+<br>
+
+- 💻 Passionate about Full Stack Development
+- 🚀 Love building modern and responsive web applications
+- 🌱 Currently improving backend & cloud skills
+- ⚡ Interested in UI/UX, APIs & scalable systems
+- 🎯 Goal: Become a Professional Software Engineer
 
 ---
 
-## 🚀 Tech Arsenal
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd8381f7-5b15-4a7d-8a32-4f0c0d4f4e1f.gif" width="100%">
+
+# 🚀 Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,java,mongodb,mysql,html,css,js,git,github,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,java,mongodb,mysql,html,css,js,git,github,vscode&perline=8"/>
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd8381f7-5b15-4a7d-8a32-4f0c0d4f4e1f.gif" width="100%">
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HDCI-Kumara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HDCI-Kumara&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HDCI-Kumara&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd8381f7-5b15-4a7d-8a32-4f0c0d4f4e1f.gif" width="100%">
 
 # 🔥 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDCI-Kumara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd8381f7-5b15-4a7d-8a32-4f0c0d4f4e1f.gif" width="100%">
 
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HDCI-Kumara&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# ⚡ Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd8381f7-5b15-4a7d-8a32-4f0c0d4f4e1f.gif" width="100%">
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/HDCI-Kumara">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -119,16 +115,30 @@ Passion: Creating Premium Digital Experiences
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd8381f7-5b15-4a7d-8a32-4f0c0d4f4e1f.gif" width="100%">
+
 # 🚀 Featured Projects
 
 <div align="center">
 
 ✨ Full Stack MERN Applications  
 ✨ Modern React Dashboards  
-✨ REST API Systems  
+✨ REST API Backend Systems  
 ✨ Java Desktop Applications  
-✨ Database Management Projects  
-✨ Responsive UI/UX Designs  
+✨ Responsive UI/UX Projects  
+✨ Database Management Systems  
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd8381f7-5b15-4a7d-8a32-4f0c0d4f4e1f.gif" width="100%">
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/HDCI-Kumara/HDCI-Kumara/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -138,17 +148,7 @@ Passion: Creating Premium Digital Experiences
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.”
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 </div>
 
@@ -169,6 +169,6 @@ const life = () => {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
 
 </div>
