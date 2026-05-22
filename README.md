@@ -16,14 +16,14 @@
 
 # 🌌 About Me
 
-```yaml
+yaml
 Name: H D C I Kumara
 Role: Full Stack Developer
 Location: Sri Lanka 🇱🇰
 Focus: Modern Web Development
 Currently Learning: Cloud & Advanced Backend
 Passion: Creating Beautiful Digital Experiences
-```
+
 
 <br>
 
