@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Hi 👋, I'm HDCI-Kumara&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20🚀&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Hi%20👋,%20I'm%20HDCI%20Kumara&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20🚀&descAlignY=58&descSize=20"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Building+Modern+Web+Applications;Creating+Premium+Digital+Experiences;Always+Learning+New+Technologies"/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l1ZjBwcDZkdDd1ZnptcDV0cXgzbGEwcng0cXB6YXQ1Y2ZsMjdxYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 # 🌌 About Me
 
