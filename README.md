@@ -153,16 +153,19 @@ Passion: Creating Beautiful Digital Experiences
 
 ---
 
-# ⚙️ Fun Fact
+## ⚙️ Fun Fact
 
-```javascript
-const life = () => {
+<div align="center">
+
+javascript
+while (true) {
   eat();
   sleep();
   code();
   repeat();
 }
-```
+
+</div>
 
 ---
 
