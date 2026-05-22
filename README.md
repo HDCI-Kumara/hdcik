@@ -157,13 +157,14 @@ Passion: Creating Beautiful Digital Experiences
 
 <div align="center">
 
-javascript
+<pre>
 while (true) {
   eat();
   sleep();
   code();
   repeat();
 }
+</pre>
 
 </div>
 
