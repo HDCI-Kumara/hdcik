@@ -1,22 +1,28 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: HDCI-Kumara
           outputs: |
-            dist/snake.svg
+            dist/snake-dark.svg
+            dist/snake.svg?color_snake=#00F7FF
+            dist/snake.gif
 
-      - name: push
+      - name: Push output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
