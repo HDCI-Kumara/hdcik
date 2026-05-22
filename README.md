@@ -155,8 +155,7 @@ Passion: Creating Beautiful Digital Experiences
 
 ## ⚙️ Fun Fact
 
-<div align="center">
-
+javascript
 while (true) {
   eat();
   sleep();
@@ -164,7 +163,6 @@ while (true) {
   repeat();
 }
 
-</div>
 
 ---
 
