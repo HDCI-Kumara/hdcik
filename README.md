@@ -138,8 +138,7 @@ Passion: Creating Beautiful Digital Experiences
 
 <div align="center">
 
-![Snake animation](https://github.com/HDCI-Kumara/HDCI-Kumara/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/HDCI-Kumara/HDCI-Kumara/output/snake.svg)
 </div>
 
 ---
